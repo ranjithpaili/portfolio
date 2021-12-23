@@ -1,0 +1,51 @@
+.projects-homepage-top-image {
+    height: 250px;
+}
+
+.my-projects-heading {
+    font-family: "Bree serif";
+    color: #183b56;
+}
+
+.my-projects-card-container {
+    padding: 30px;
+    margin: 10px;
+}
+
+.my-projects-discription {
+    font-family: "Bree serif";
+    color: #616e7c;
+}
+
+.project-vr-logo {
+    height: 40px;
+    width: 50px;
+}
+
+.project-flybuy-logo {
+    height: 56px;
+    width: 163px;
+}
+
+.project-foodmunch-logo {
+    height: 70px;
+    width: 80px;
+}
+
+.project-main-page-discription {
+    font-size: 12px;
+    font-family: "Bree serif";
+    color: #616e7c;
+}
+
+.my-projects-card-button {
+    font-family: "roboto";
+    color: #ffffff;
+    background-color: #5752ab;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 8px;
+    height: 38px;
+    width: 126px;
+    border-width: 0px;
+}
